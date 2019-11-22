@@ -1,4 +1,4 @@
-# CSCI-B 555 Elements of Artificial Intelligence
+# CSCI-B 551 Elements of Artificial Intelligence
 
 ### Find-Your-Way
 
